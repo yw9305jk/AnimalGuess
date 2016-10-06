@@ -1,0 +1,12 @@
+Animal Guessing Game, are you ready
+1 Is it a mammal
+1 Does it live underwater
+0 Robin
+1 Does it have tentacles?
+0 Trout
+0 Octopus
+1 Is it bigger than a cat
+0 Mouse
+1 Does it have paws?
+0 Kangaroo
+0 Bear

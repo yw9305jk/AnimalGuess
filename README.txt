@@ -1,0 +1,1 @@
+The tree_1.txt file must be in your "C:/ics240/" folder or you must change that directory inside the AnimalGuess.java code to match your directory.

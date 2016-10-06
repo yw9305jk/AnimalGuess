@@ -1,0 +1,8 @@
+Animal Guessing Game, are you ready
+1 Is it a mammal
+1 Does it live underwater
+0 Robin
+0 Trout
+1 Is it bigger than a cat
+0 Mouse
+0 Kangaroo
